@@ -1,0 +1,39 @@
+# Archivos auxiliares generados por LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.nav
+*.snm
+*.vrb
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.idx
+*.ilg
+*.ind
+*.lof
+*.lot
+*.lol
+*.synctex(busy)
+
+# Carpetas de compilación o salida
+# (Si usas carpetas dedicadas para output como "build" o "out")
+build/
+out/
+
+# Archivos de sistema operativo (útiles siempre)
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Configuración de editores (opcional, pero recomendado)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignora también los PDF
+*.pdf
